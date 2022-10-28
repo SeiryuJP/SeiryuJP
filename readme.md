@@ -14,7 +14,7 @@
 
 
 ## 🎏 | Frameworks
-![Laravel](https://img.shields.io/badge/laravel-ff1100?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-faf5f5?style=for-the-badge&logo=laravel&logoColor=ff1100)
 
 
 ## 📊 | Stats
