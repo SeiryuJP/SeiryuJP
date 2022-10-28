@@ -8,8 +8,8 @@
 
 ## 📊 | Stats
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SeiryuJP&show_icons=true&hide_border=true&theme=merko&count_private=true"/>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SeiryuJP&hide_border=true&theme=merko"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SeiryuJP&show_icons=true&hide_border=true&theme=merko&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SeiryuJP&hide_border=true&theme=merko"/>
 </p>
 
 <p align="center">
