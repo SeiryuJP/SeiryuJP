@@ -1,7 +1,7 @@
 # Seiryu - 青龍
 <p align="left">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile+%F0%9F%90%89;%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%F0%9F%90%89" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=11F7B0&pause=1000&width=435&lines=Welcome+to+my+profile+%F0%9F%90%89;%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%F0%9F%90%89;Bienvenido+a+mi+perfil+%F0%9F%90%89" alt="Typing SVG">
   </a>
 </p>
 <p align="center" margin="0">
