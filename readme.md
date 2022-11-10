@@ -1,3 +1,9 @@
+# Seiryu
+<p align="left">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile+%F0%9F%90%89" alt="Typing SVG">
+  </a>
+</p>
 <p align="center" margin="0">
   <img src="gitartwork.svg" alt="animated"/>
 </p>
