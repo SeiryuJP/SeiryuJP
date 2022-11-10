@@ -5,7 +5,9 @@
   </a>
 </p>
 <p align="center" margin="0">
+  <a href="https://github.com/jasineri/gitartwork">
   <img src="gitartwork.svg" alt="animated"/>
+  </a>
 </p>
 
 <p align="center">
