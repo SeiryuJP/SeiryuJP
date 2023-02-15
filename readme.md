@@ -28,7 +28,9 @@
 <p>
 <img src="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=ff1100&style=plastic" height="25">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=plastic" height="25">
+<img src="https://img.shields.io/badge/Webpack-eeeeee?style=for-the-badge&logo=webpack&logoColor=4ebbf5&style=plastic" height="25">
 <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=ffffff&style=plastic" height="25">
+<img src="https://img.shields.io/badge/NodeJS-454545?style=for-the-badge&logo=nodedotjs&logoColor=00ff00&style=plastic" height="25">
 </p>
 
 ## 📊 | Stats
